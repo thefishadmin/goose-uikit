@@ -2,7 +2,7 @@ export const links = [
   {
     label: "Home",
     icon: "HomeIcon",
-    href: "/",
+    href: "/"
   },
   {
     label: "Trade",
@@ -10,33 +10,33 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance",
+        href: "https://exchange.pancakeswap.finance"
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/pool",
-      },
-    ],
+        href: "https://exchange.pancakeswap.finance/#/pool"
+      }
+    ]
   },
   {
     label: "Farms",
     icon: "FarmIcon",
-    href: "/farms",
+    href: "/farms"
   },
   {
     label: "Pools",
     icon: "PoolIcon",
-    href: "/syrup",
+    href: "/syrup"
   },
   {
     label: "Lottery",
     icon: "TicketIcon",
-    href: "/lottery",
+    href: "/lottery"
   },
   {
     label: "NFT",
     icon: "NftIcon",
-    href: "/nft",
+    href: "/nft"
   },
   {
     label: "Profile & Teams",
@@ -44,14 +44,14 @@ export const links = [
     items: [
       {
         label: "Leaderboard",
-        href: "/",
+        href: "/"
       },
       {
         label: "YourProfile",
-        href: "/",
-      },
+        href: "/"
+      }
     ],
-    calloutClass: "rainbow",
+    calloutClass: "rainbow"
   },
   {
     label: "Info",
@@ -59,21 +59,21 @@ export const links = [
     items: [
       {
         label: "Overview",
-        href: "https://pancakeswap.info",
+        href: "https://pancakeswap.info"
       },
       {
         label: "Tokens",
-        href: "https://pancakeswap.info/tokens",
+        href: "https://pancakeswap.info/tokens"
       },
       {
         label: "Pairs",
-        href: "https://pancakeswap.info/pairs",
+        href: "https://pancakeswap.info/pairs"
       },
       {
         label: "Accounts",
-        href: "https://pancakeswap.info/accounts",
-      },
-    ],
+        href: "https://pancakeswap.info/accounts"
+      }
+    ]
   },
   {
     label: "IFO",
@@ -81,13 +81,13 @@ export const links = [
     items: [
       {
         label: "Next",
-        href: "/ifo",
+        href: "/ifo"
       },
       {
         label: "History",
-        href: "/ifo/history",
-      },
-    ],
+        href: "/ifo/history"
+      }
+    ]
   },
   {
     label: "More",
@@ -99,18 +99,18 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/thefishadmin/"
       },
-      {
-        label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
-      },
-      {
-        label: "Blog",
-        href: "https://goosefinance.medium.com/",
-      },
-    ],
-  },
+      // {
+      //   label: "Docs",
+      //   href: "https://goosedefi.gitbook.io/goose-finance/"
+      // },
+      // {
+      //   label: "Blog",
+      //   href: "https://goosefinance.medium.com/"
+      // }
+    ]
+  }
 ];
 
 export const socials = [
@@ -120,8 +120,8 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
-      },
+        href: " https://t.me/fishpondfinance"
+      }
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
@@ -164,19 +164,19 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "https://t.me/fishpondfinance",
       },
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
       // },
-    ],
+    ]
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
-  },
+    href: "https://twitter.com/FishpondFinance"
+  }
 ];
 
 export const MENU_HEIGHT = 64;
