@@ -32,7 +32,7 @@ export const light: ButtonTheme = {
     borderColorHover: "currentColor",
     boxShadow: "none",
     boxShadowActive: "none",
-    color: #FFF
+    color: "#FFFFFF"
   },
   [TEXT]: {
     background: "transparent",

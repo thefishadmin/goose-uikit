@@ -2746,7 +2746,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "inset 0px -1px 0px rgba(14, 14, 44, 0.4)",
         boxShadowActive: "inset 0px -1px 0px rgba(14, 14, 44, 0.4)",
-        color: "#FFFFFF",
+        color: "#FFFFFF"
     },
     _a$2[SECONDARY] = {
         background: "transparent",
@@ -2756,7 +2756,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: lightColors.primaryBright,
         boxShadow: "none",
         boxShadowActive: "none",
-        color: lightColors.primary,
+        color: lightColors.primary
     },
     _a$2[TERTIARY] = {
         background: lightColors.tertiary,
@@ -2766,7 +2766,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "none",
         boxShadowActive: "none",
-        color: lightColors.primary,
+        color: "#FFFFFF"
     },
     _a$2[TEXT] = {
         background: "transparent",
@@ -2776,7 +2776,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "none",
         boxShadowActive: "none",
-        color: lightColors.primary,
+        color: lightColors.primary
     },
     _a$2[DANGER] = {
         background: lightColors.failure,
@@ -2786,7 +2786,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "none",
         boxShadowActive: "none",
-        color: "#FFFFFF",
+        color: "#FFFFFF"
     },
     _a$2[SUBTLE] = {
         background: lightColors.textSubtle,
@@ -2796,7 +2796,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "none",
         boxShadowActive: "none",
-        color: "#FFFFFF",
+        color: "#FFFFFF"
     },
     _a$2[SUCCESS] = {
         background: lightColors.success,
@@ -2806,7 +2806,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "none",
         boxShadowActive: "none",
-        color: "#FFFFFF",
+        color: "#FFFFFF"
     },
     _a$2);
 var dark$1 = (_b = {},
