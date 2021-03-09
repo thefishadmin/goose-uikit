@@ -2757,7 +2757,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: lightColors.primaryBright,
         boxShadow: "none",
         boxShadowActive: "none",
-        color: lightColors.primary
+        color: "#FFFFFF"
     },
     _a$2[TERTIARY] = {
         background: lightColors.tertiary,

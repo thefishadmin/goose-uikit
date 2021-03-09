@@ -22,7 +22,7 @@ export const light: ButtonTheme = {
     borderColorHover: lightColors.primaryBright,
     boxShadow: "none",
     boxShadowActive: "none",
-    color: lightColors.primary
+    color: "#FFFFFF"
   },
   [TERTIARY]: {
     background: lightColors.tertiary,
