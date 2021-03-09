@@ -1,9 +1,10 @@
+import { Link } from "react-router-dom";
 import React from "react";
 import styled from "styled-components";
-import { Link } from "react-router-dom";
-import { LogoIcon } from "../../components/Svg";
+import { HamburgerCloseIcon, HamburgerIcon, LogoIcon as LogoWithText } from "./icons";
+
 import Flex from "../../components/Flex/Flex";
-import { HamburgerIcon, HamburgerCloseIcon, LogoIcon as LogoWithText } from "./icons";
+import { LogoIcon } from "../../components/Svg";
 import MenuButton from "./MenuButton";
 
 interface Props {
@@ -23,7 +24,7 @@ const StyledLink = styled(Link)`
     }
   }
   .desktop-icon {
-    width: 156px;
+    width: 300px;
     display: none;
     ${({ theme }) => theme.mediaQueries.nav} {
       display: block;
