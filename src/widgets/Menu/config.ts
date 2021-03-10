@@ -100,15 +100,15 @@ export const links = [
       {
         label: "Github",
         href: "https://github.com/thefishadmin/"
-      }
+      },
       // {
       //   label: "Docs",
       //   href: "https://goosedefi.gitbook.io/goose-finance/"
       // },
-      // {
-      //   label: "Blog",
-      //   href: "https://goosefinance.medium.com/"
-      // }
+      {
+        label: "Blog",
+        href: "https://fishpondfinance.medium.com"
+      }
     ]
   }
 ];
